@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    gap: 15px;
+}
+
+div {
+    border-radius: 15px;
+}
+
+#unico {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+#unico1 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+#unico2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+#unico3 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+#key {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
